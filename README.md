@@ -69,7 +69,7 @@ From static study content to AI-powered learning tools, EduHub continues to evol
 ### 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduHub-01)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_eduhub_01)
-[![Website](https://img.shields.io/badge/Website-EduHub-00C853?style=for-the-badge&logo=vercel)](https://eduhub-all.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=vercel)](https://eduhub-all.vercel.app/)
 
 ---
 
