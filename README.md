@@ -75,9 +75,7 @@ From static study content to AI-powered learning tools, EduHub continues to evol
   <a href="https://eduhub-all.vercel.app/">
     <img src="https://img.shields.io/badge/Website-EduHub-00C853?style=for-the-badge&logo=vercel" alt="EduHub Website"/>
   </a>
-  <a href="https://www.instagram.com/_eduhub_01/">
-    <img src="https://img.shields.io/badge/Instagram-@_eduhub_01-E4405F?style=for-the-badge&logo=instagram" alt="EduHub Instagram"/>
-  </a>
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@_eduhub_01)
 </p>
 
 ---
